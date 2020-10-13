@@ -1,0 +1,9 @@
+The result of the Monty Hall problem is something that is not intiuatively obvious. You should think of it this way:
+
+If you picked a door with a goat, then the gameshow host *is forced* to show you the other door without the goat. 
+If you picked a door with a car, then the games how host has a choice of two doors.
+
+Either way, if you stick with your choice you will always have a 1 in 3 chance of winning.
+
+We use this to our advantage. As you are twice as likely to pick a door that has a goat behind it (as there 2 goats and 1 car),
+more often than not, the gameshow host is forced to show us the remaining door that does not contain the car - in fact exactly 2 out of 3 times the gameshow host has to do this. This is why the odds of winning can be increased to 2/3 (instead of 1/3).
